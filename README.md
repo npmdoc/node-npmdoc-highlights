@@ -1,9 +1,14 @@
-# api documentation for  [highlights (v3.0.1)](https://github.com/atom/highlights)  [![npm package](https://img.shields.io/npm/v/npmdoc-highlights.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-highlights) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-highlights.svg)](https://travis-ci.org/npmdoc/node-npmdoc-highlights)
+# npmdoc-highlights
+
+#### api documentation for  [highlights (v3.0.1)](https://github.com/atom/highlights)  [![npm package](https://img.shields.io/npm/v/npmdoc-highlights.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-highlights) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-highlights.svg)](https://travis-ci.org/npmdoc/node-npmdoc-highlights)
+
 #### Syntax highlighter
 
-[![NPM](https://nodei.co/npm/highlights.png?downloads=true)](https://www.npmjs.com/package/highlights)
+[![NPM](https://nodei.co/npm/highlights.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/highlights)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-highlights/build/screenCapture.buildNpmdoc.browser._2Fhome_2Ftravis_2Fbuild_2Fnpmdoc_2Fnode-npmdoc-highlights_2Ftmp_2Fbuild_2Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-highlights/build/apidoc.html)
+- [https://npmdoc.github.io/node-npmdoc-highlights/build/apidoc.html](https://npmdoc.github.io/node-npmdoc-highlights/build/apidoc.html)
+
+[![apidoc](https://npmdoc.github.io/node-npmdoc-highlights/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-highlights/build/apidoc.html)
 
 ![npmPackageListing](https://npmdoc.github.io/node-npmdoc-highlights/build/screenCapture.npmPackageListing.svg)
 
@@ -53,45 +58,35 @@
     "main": "lib/highlights.js",
     "maintainers": [
         {
-            "name": "as-cii",
-            "email": "as-cii@github.com"
+            "name": "as-cii"
         },
         {
-            "name": "atom",
-            "email": "nathan@github.com"
+            "name": "atom"
         },
         {
-            "name": "bcoe",
-            "email": "ben@npmjs.com"
+            "name": "bcoe"
         },
         {
-            "name": "benogle",
-            "email": "ogle.ben@gmail.com"
+            "name": "benogle"
         },
         {
-            "name": "kevinsawicki",
-            "email": "kevinsawicki@gmail.com"
+            "name": "kevinsawicki"
         },
         {
-            "name": "maxbrunsfeld",
-            "email": "maxbrunsfeld@gmail.com"
+            "name": "maxbrunsfeld"
         },
         {
-            "name": "nathansobo",
-            "email": "nathan@github.com"
+            "name": "nathansobo"
         },
         {
-            "name": "soldair",
-            "email": "soldair@gmail.com"
+            "name": "soldair"
         },
         {
-            "name": "zcbenz",
-            "email": "zcbenz@gmail.com"
+            "name": "zcbenz"
         }
     ],
     "name": "highlights",
     "optionalDependencies": {},
-    "readme": "ERROR: No README data found!",
     "repository": {
         "type": "git",
         "url": "git+https://github.com/atom/highlights.git"
@@ -105,16 +100,6 @@
     "version": "3.0.1"
 }
 ```
-
-
-
-# <a name="apidoc.tableOfContents"></a>[table of contents](#apidoc.tableOfContents)
-
-#### [module highlights](#apidoc.module.highlights)
-
-
-
-# <a name="apidoc.module.highlights"></a>[module highlights](#apidoc.module.highlights)
 
 
 
