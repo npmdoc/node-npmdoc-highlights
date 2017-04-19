@@ -61,12 +61,47 @@
 
     <li class="apidocModuleLi"><a href="#apidoc.module.highlights">module highlights</a><ol>
 
+        <li>
+
+            <a class="apidocElementLiA" href="#apidoc.element.highlights.highlights">
+            function <span class="apidocSignatureSpan"></span>highlights
+            <span class="apidocSignatureSpan">(arg)</span>
+            </a>
+
+        </li>
+
     </ol></li>
 
 </ol></div>
 
 <div class="apidocSectionDiv">
 <h1><a href="#apidoc.module.highlights" id="apidoc.module.highlights">module highlights</a></h1>
+
+
+    <h2>
+        <a href="#apidoc.element.highlights.highlights" id="apidoc.element.highlights.highlights">
+        function <span class="apidocSignatureSpan"></span>highlights
+        <span class="apidocSignatureSpan">(arg)</span>
+        </a>
+    </h2>
+    <ul>
+    <li>description and source-code<pre class="apidocCodePre">function Highlights(arg) {
+  var ref;
+  ref = arg != null ? arg : {}, this.includePath = ref.includePath, this.registry = ref.registry, this.scopePrefix = ref.scopePrefix
+;
+  if (this.registry == null) {
+    this.registry = new GrammarRegistry({
+      maxTokensPerLine: Infinity
+    });
+  }
+  this._loadingGrammars = false;
+  if (this.scopePrefix == null) {
+    this.scopePrefix = &#x27;&#x27;;
+  }
+}</pre></li>
+    <li>example usage<pre class="apidocCodePre">n/a</pre></li>
+    </ul>
+
 
 </div>
 
