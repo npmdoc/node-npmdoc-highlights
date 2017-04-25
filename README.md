@@ -1,6 +1,6 @@
 # npmdoc-highlights
 
-#### api documentation for  [highlights (v3.0.1)](https://github.com/atom/highlights)  [![npm package](https://img.shields.io/npm/v/npmdoc-highlights.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-highlights) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-highlights.svg)](https://travis-ci.org/npmdoc/node-npmdoc-highlights)
+#### basic api documentation for  [highlights (v3.0.1)](https://github.com/atom/highlights)  [![npm package](https://img.shields.io/npm/v/npmdoc-highlights.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-highlights) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-highlights.svg)](https://travis-ci.org/npmdoc/node-npmdoc-highlights)
 
 #### Syntax highlighter
 
